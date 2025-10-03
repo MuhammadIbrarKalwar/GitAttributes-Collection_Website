@@ -1,0 +1,1 @@
+📝️📑️🗄️🌐️ The official source repository for the website of the Seanpm2001 GitAttributes collection project, a collection of *.gitattribute files used by @seanpm2001 for usage as templates and historical reference. 
