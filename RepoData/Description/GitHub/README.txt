@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+📝️📑️🗄️🌐️ The official source repository for the website of the Seanpm2001 GitAttributes collection project, a collection of *.gitattribute files used by @seanpm2001 for usage as templates and historical reference. 
